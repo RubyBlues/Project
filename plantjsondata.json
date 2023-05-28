@@ -2023,8 +2023,8 @@
     "toxicity": "None"
   },
   "FR012": {
-    "plant_name": "Strawberry",
-    "latin_name": "Fragaria x ananassa",
+    "plant_name": "Banana",
+    "latin_name": "Musa acuminata",
     "class_name": "Fruit",
     "light_conditions": "Full Sun",
     "frequency_watering": 2,
