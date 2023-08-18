@@ -1,95 +1,34 @@
 {
-    {
-        "1": "Cook meals at home instead of eating out to save on dining expenses."
-    },
-    {
-        "2": "Cancel unused subscriptions or memberships to cut down on unnecessary expenses."
-    },
-    {
-        "3": "Use public transportation or carpool to reduce transportation costs."
-    },
-    {
-        "4": "Shop with a grocery list and avoid impulse buying to save on groceries."
-    },
-    {
-        "5": "Turn off lights and unplug electronics when not in use to lower energy bills."
-    },
-    {
-        "6": "Compare prices and look for discounts before making big purchases."
-    },
-    {
-        "7": "Use cashback or rewards credit cards to earn benefits on your spending."
-    },
-    {
-        "8": "Buy generic or store-brand products instead of name brands to save on essentials."
-    },
-    {
-        "9": "Negotiate with service providers for lower rates on utilities or bills."
-    },
-    {
-        "10": "Repair items instead of replacing them whenever possible."
-    },
-    {
-        "11": "Sell items you no longer need or use to make extra money."
-    },
-    {
-        "12": "Turn down the thermostat and use energy-efficient appliances to reduce heating costs."
-    },
-    {
-        "13": "Borrow books, movies, and games from the library instead of buying them."
-    },
-    {
-        "14": "Use coupon codes and cashback websites when shopping online."
-    },
-    {
-        "15": "Meal prep and bring lunch to work instead of buying food every day."
-    },
-    {
-        "16": "Cut back on bottled water and use a reusable bottle instead."
-    },
-    {
-        "17": "Avoid impulse purchases by waiting a day before buying non-essential items."
-    },
-    {
-        "18": "Plan no-spend weekends where you avoid any unnecessary spending."
-    },
-    {
-        "19": "Buy in bulk for items you use frequently to get better deals."
-    },
-    {
-        "20": "Grow your own herbs and vegetables to save on groceries."
-    },
-    {
-        "21": "Use free or low-cost entertainment options like parks and local events."
-    },
-    {
-        "22": "Repair clothing with minor damages instead of buying new ones."
-    },
-    {
-        "23": "Unsubscribe from marketing emails to avoid impulse online shopping."
-    },
-    {
-        "24": "Conserve water by fixing leaks and using efficient appliances."
-    },
-    {
-        "25": "Buy second-hand items from thrift stores or online marketplaces."
-    },
-    {
-        "26": "Take advantage of free community resources like workshops and classes."
-    },
-    {
-        "27": "Cook in bulk and freeze leftovers for future meals."
-    },
-    {
-        "28": "Use public Wi-Fi or free hotspots instead of consuming mobile data."
-    },
-    {
-        "29": "Shop for clothing and other items during seasonal sales."
-    },
-    {
-        "30": "Cut down on expensive coffee habits by making your own at home."
-    },
-    {
+    
+        "1": "Cook meals at home instead of eating out to save on dining expenses.",
+        "2": "Cancel unused subscriptions or memberships to cut down on unnecessary expenses.",
+        "3": "Use public transportation or carpool to reduce transportation costs.",
+        "4": "Shop with a grocery list and avoid impulse buying to save on groceries.",
+        "5": "Turn off lights and unplug electronics when not in use to lower energy bills.",
+        "6": "Compare prices and look for discounts before making big purchases.",
+        "7": "Use cashback or rewards credit cards to earn benefits on your spending.",
+        "8": "Buy generic or store-brand products instead of name brands to save on essentials.",
+        "9": "Negotiate with service providers for lower rates on utilities or bills.",
+        "10": "Repair items instead of replacing them whenever possible.",
+        "11": "Sell items you no longer need or use to make extra money.",
+        "12": "Turn down the thermostat and use energy-efficient appliances to reduce heating costs.",
+        "13": "Borrow books, movies, and games from the library instead of buying them.",
+        "14": "Use coupon codes and cashback websites when shopping online.",
+        "15": "Meal prep and bring lunch to work instead of buying food every day.",
+        "16": "Cut back on bottled water and use a reusable bottle instead.",
+        "17": "Avoid impulse purchases by waiting a day before buying non-essential items.",
+        "18": "Plan no-spend weekends where you avoid any unnecessary spending.",
+        "19": "Buy in bulk for items you use frequently to get better deals.",
+        "20": "Grow your own herbs and vegetables to save on groceries.",
+        "21": "Use free or low-cost entertainment options like parks and local events.",
+        "22": "Repair clothing with minor damages instead of buying new ones.",
+        "23": "Unsubscribe from marketing emails to avoid impulse online shopping.",
+        "24": "Conserve water by fixing leaks and using efficient appliances.",
+        "25": "Buy second-hand items from thrift stores or online marketplaces.",
+        "26": "Take advantage of free community resources like workshops and classes.",
+        "27": "Cook in bulk and freeze leftovers for future meals.",
+        "28": "Use public Wi-Fi or free hotspots instead of consuming mobile data.",
+        "29": "Shop for clothing and other items during seasonal sales.",
+        "30": "Cut down on expensive coffee habits by making your own at home.",
         "31": "Switch to energy-efficient light bulbs to reduce electricity consumption."
-    }
 }
