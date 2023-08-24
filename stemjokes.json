@@ -1,0 +1,27 @@
+[
+  {
+    "number": 1,
+    "question": "Why don't scientists trust atoms?",
+    "answer": "Because they make up everything!"
+  },
+  {
+    "number": 2,
+    "question": "Why was the maths book sad?",
+    "answer": "It had too many problems."
+  },
+  {
+    "number": 3,
+    "question": "Why was the computer cold?",
+    "answer": "It left its Windows open."
+  },
+  {
+    "number": 4,
+    "question": "How do you organise a space party?",
+    "answer": "You planet!"
+  },
+  {
+    "number": 5,
+    "question": "Why don't programmers like nature?",
+    "answer": "It has too many bugs."
+  }
+]
